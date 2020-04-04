@@ -38,7 +38,7 @@ This project uses these technologies:
 - backend -
     Run the migrations in order to initialize the database
   ```
-  npx knex migrate:latest
+  npx sequelize db:migrate
   ```
     Configure the docker container inside the 'config' folder
 
