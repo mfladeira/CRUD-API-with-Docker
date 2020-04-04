@@ -20,16 +20,6 @@
 </p>
 
 
-<p align="center">
-  <a href="#rocket-technologies">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-can-i-run-it">How can I run it?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-can-i-help">How can I help?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
 ## :rocket: Technologies
 
 This project uses these technologies:
@@ -41,7 +31,7 @@ This project uses these technologies:
 - [Nodemon](https://nodemon.io/)
 - [Axios](https://github.com/axios/axios)
 
-## Installing
+## 💻 Installing
 
    Run `npm i` at the root of in each folder in order to install the dependencies.
    
@@ -52,7 +42,7 @@ This project uses these technologies:
   ```
     Configure the docker container inside the 'config' folder
 
-## Starting
+## 💻 Starting
 
 Run `npm start` in backend first then run `npm start` in frontend.
 
