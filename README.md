@@ -1,7 +1,10 @@
 <h1 align="center">
     <img alt="crud" src="/frontend/src/assets/imgs/crudTitle.png" width="150px" height="100px" />
 </h1>
-<img align="center" alt="crud" src="/frontend/src/assets/imgs/Crud.PNG" width="700px" height="300px" />
+<p align="center">
+    <img  alt="crud" src="/frontend/src/assets/imgs/Crud.PNG" width="700px" height="300px" />
+<p/>
+
 <p align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vsalbuq/be-the-hero">
