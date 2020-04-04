@@ -1,10 +1,9 @@
 <h1 align="center">
-    <img alt="crud" src="/frontend/src/assets/imgs/crudTitle.PNG" width="250px" height="250px" />
+    <img alt="crud" src="/frontend/src/assets/imgs/crudTitle.png" width="150px" height="100px" />
     <img alt="crud" src="/frontend/src/assets/imgs/Crud.PNG" width="700px" height="300px" />
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vsalbuq/be-the-hero">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vsalbuq/be-the-hero">
   
@@ -16,12 +15,8 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/vsalbuq/be-the-hero">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p align="center">
-    <a href="https://insomnia.rest/run/?label=Be%20The%20Hero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fvsalbuq%2Fbe-the-hero%2Fmaster%2FInsomnia_2020-03-25.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 <p align="center">
   <a href="#rocket-technologies">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -51,29 +46,8 @@ This project uses these technologies:
 
 Soon...
 
-## 🔖 Layout
-
-<!-- You can download the layout (`.sketch`) using [this link](.github/DevRadar.sketch).
-
-To open it in any SO, use [Figma](https://figma.com). -->
 
 ## 👨‍💻 How can I run it?
 
 Soon...
 
-## 🤔 How can I help?
-
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b minha-feature`;
-- Commit your changes: `git commit -m 'feat: Minha nova feature :tada:'`;
-- Push it to your branch: `git push origin minha-feature`.
-
-After merging your pull request, your branch can be deleted;
-
-## :memo: License
-
-This project uses the MIT license. Read [LICENSE](LICENSE.md) for details.
-
----
-
-Made with ♥ by Vinícius Albuquerque :wave:
